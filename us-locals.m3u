@@ -459,3 +459,6 @@ https://dai.google.com/linear/hls/event/A7CgcBYNTuKfvFvW8rmiJA/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WXXV-TV News Biloxi MS"  group-title="Locals",WXXV-TV News Biloxi MS
 https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC NEws Now"  group-title="Locals",NBC News Now
+https://www.youtube.com/watch?v=QkCyRDevBzc
+
