@@ -120,9 +120,6 @@ https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel 9 Orlando FL (WFTV)"  group-title="Locals",Channel 9 Orlando FL (WFTV)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox 2 St. Louis MO (KTVI)"  group-title="Locals",Fox 2 St. Louis MO (KTVI)
-https://iptv-all.lanesh4d0w.repl.co/united-states/ktvi-tv
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox 23 Tulsa OK (KOKI-TV)"  group-title="Locals",Fox 23 Tulsa OK (KOKI-TV)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
 
@@ -143,9 +140,6 @@ https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC 26 Green Bay WI (WGBA)"  group-title="Locals",NBC 26 Green Bay WI (WGBA)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC6 WTVJ-TV News Miami FL"  group-title="Locals",NBC6 WTVJ-TV News Miami FL
-https://wtvjlive-f.akamaihd.net/i/MIAMI_STREAM1@19309/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PBS 39 Allentown PA (WLVT)"  group-title="PBS",PBS 39 Allentown PA (WLVT)
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
@@ -195,6 +189,4 @@ https://dai.google.com/linear/hls/event/A7CgcBYNTuKfvFvW8rmiJA/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WXXV-TV News Biloxi MS"  group-title="Locals",WXXV-TV News Biloxi MS
 https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC NEws Now"  group-title="Locals",NBC News Now
-https://www.youtube.com/watch?v=QkCyRDevBzc
 
